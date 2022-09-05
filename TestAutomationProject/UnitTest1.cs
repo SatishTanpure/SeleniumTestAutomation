@@ -28,6 +28,12 @@ namespace TestAutomationProject
             LP.ValidateData("Wrong credentials");
             
         }
+        [Test]
+        public void Test2()
+        { }
+        [Test]
+        public void Test3()
+        { }
 
         public void Test2()
         {

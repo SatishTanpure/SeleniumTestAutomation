@@ -30,12 +30,16 @@ namespace TestAutomationProject
         }
         [Test]
         public void Test2()
-        { }
-        [Test]
+        {
+            // This is a sample commit test
+         }
+            [Test]
         public void Test3()
-        { }
-
-        public void Test2()
+        {
+            // This is a sample commit test
+        }
+         [Test]
+        public void Test4()
         {
             // This is a sample commit test
         }

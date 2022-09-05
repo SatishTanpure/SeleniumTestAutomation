@@ -29,6 +29,11 @@ namespace TestAutomationProject
             
         }
 
+        public void Test2()
+        {
+            // This is a sample commit test
+        }
+
         [TearDown]
         public void Close()
         {
